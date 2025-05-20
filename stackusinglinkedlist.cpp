@@ -33,5 +33,10 @@ class Stack
         return value;
     }
 
+    void pop()
+    {
+        
+    }
+
 
 };
